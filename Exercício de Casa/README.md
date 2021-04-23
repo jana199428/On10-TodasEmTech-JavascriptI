@@ -73,7 +73,7 @@ A tela inicial deve conter duas partes essenciais:
 
 ## 4. Critérios Técnicos do Projeto: 
 
-1. O formulário de inserção dos livros deve conter campos para os seguintes campos obrigatórios: **Autor, Título, ISBN e Data de Publicação**. Contudo, sintam-se à vontade para inserirem novos campos no formulário caso prefiram.
+1. O formulário de inserção dos livros deve conter campos para os seguintes campos obrigatórios: **Autor, Título, ISBN e Data de Publicação**. Contudo, sintam-se à vontade para inserirem novos campos no formulário caso prefiram. 
 
 2. Um livro não pode ser adicionado sem as informações obrigatórias acima mencionadas *(Autor, Título, ISBN e Data de Publicação)*. Logo, o seu código deve prever um tratamento de erro, informando ao usuário a necessidade de preencher as informações obrigatórias faltantes.
 
